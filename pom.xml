@@ -5,7 +5,7 @@
 	<artifactId>spring-boot-build</artifactId>
 	<version>1.4.0.BUILD-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Spring Boot Build</name>
+	<name>Spring Boot Build - Silver</name>
 	<description>Spring Boot Build</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
